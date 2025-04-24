@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peripheriegeräte</string>
+    <string name="change_language">Sprache ändern</string>
+    <string-array name="peripheral_devices">
+        <item>Tastatur</item>
+        <item>Maus</item>
+        <item>Monitor</item>
+        <item>Drucker</item>
+        <item>Scanner</item>
+        <item>Grafiktablett</item>
+        <item>Externe Festplatte</item>
+        <item>USB-Stick</item>
+        <item>Webcam</item>
+        <item>Kopfhörer</item>
+    </string-array>
+</resources>

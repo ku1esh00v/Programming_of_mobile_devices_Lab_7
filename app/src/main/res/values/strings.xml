@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Периферийные устройства</string>
+    <string name="change_language">Изменить язык</string>
+    <string-array name="peripheral_devices">
+        <item>Клавиатура</item>
+        <item>Мышь</item>
+        <item>Монитор</item>
+        <item>Принтер</item>
+        <item>Сканер</item>
+        <item>Графический планшет</item>
+        <item>Внешний жёсткий диск</item>
+        <item>Флеш-накопитель</item>
+        <item>Веб-камера</item>
+        <item>Наушники</item>
+    </string-array>
+</resources>
